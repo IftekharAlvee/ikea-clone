@@ -1,5 +1,5 @@
 import React from "react";
-
+import './ProductCard.css'
 const ProductCard = (props) => {
     console.log(props.product);
     
@@ -17,7 +17,9 @@ const ProductCard = (props) => {
             </svg>
             </button>
         </div>
-        <img src={imageUrl} class="card-img-top" alt="..."/>
+          <div class="hover01 column">
+              <img src={imageUrl} class="card-img-top" alt="..."/>
+          </div>
         <div class="card-body">
           <h5 class="card-title">{name}</h5>
           <small>{model}"</small>
