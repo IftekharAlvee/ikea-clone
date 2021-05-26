@@ -1,7 +1,7 @@
 import React from 'react';
 
 const CarouselItem = (props) => {
-    const {id, name, imageUrl, model, price, review} = props.product;
+    const { name, imageUrl, model, price} = props.product;
     return (
         
             <div class="carousel-item">

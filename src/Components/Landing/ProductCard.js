@@ -3,7 +3,7 @@ import React from "react";
 const ProductCard = (props) => {
     console.log(props.product);
     
-    const {id, name, imageUrl, model, price, review} = props.product;
+    const { name, imageUrl, model, price} = props.product;
 
   return (
     

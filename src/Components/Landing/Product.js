@@ -1,5 +1,4 @@
 import React from "react";
-import { CardColumns, CardDeck, CardGroup } from "react-bootstrap";
 import ProductCard from "./ProductCard";
 
 const Product = (props) => {
