@@ -10,28 +10,28 @@ const Nav2 = () => {
             <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
                 <li class="nav-item btn btn-light rounded-pill">
-                    <a class="nav-link" aria-current="page" href="#">Compare</a>
+                    <i class="nav-link" aria-current="page" href="#">Compare</i>
                 </li>
                 <li class="nav-item btn btn-light rounded-pill">
-                <a class="nav-link" href="#">Sort</a>
+                <i class="nav-link" href="#">Sort</i>
                 </li>
                 <li class="nav-item btn btn-light rounded-pill">
-                <a class="nav-link" href="#">size</a>
+                <i class="nav-link" href="#">size</i>
                 </li>
                 <li class="nav-item btn btn-light rounded-pill">
-                <a class="nav-link" href="#">Color</a>
+                <i class="nav-link" href="#">Color</i>
                 </li>
                 <li class="nav-item btn btn-light rounded-pill">
-                    <a class="nav-link" aria-current="page" href="#">Category</a>
+                    <i class="nav-link" aria-current="page" href="#">Category</i>
                 </li>
                 <li class="nav-item btn btn-light rounded-pill">
-                <a class="nav-link" href="#">Material</a>
+                <i class="nav-link" href="#">Material</i>
                 </li>
                 <li class="nav-item btn btn-light rounded-pill">
-                <a class="nav-link" href="#">Price</a>
+                <i class="nav-link" href="#">Price</i>
                 </li>
                 <li class="nav-item btn btn-light rounded-pill">
-                <a class="nav-link" href="#">All filter</a>
+                <i class="nav-link" href="#">All filter</i>
                 </li>
             </ul>
             </div>
